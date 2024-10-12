@@ -1,2 +1,2 @@
 # roadmap_projects
-https://github.com/siliconwhisper/roadmap_projects
+https://roadmap.sh/projects/single-page-cv
